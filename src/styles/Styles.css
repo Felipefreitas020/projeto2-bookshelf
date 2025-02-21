@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+.rr button{
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 13px;
+}
+
+.tt button{
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 13px;
+}
+
+.tt .buttons button {
+    background-color: rgb(0, 174, 255);
+    margin-inline: 7.8px;
+}
+
+.tt .buttons .black {
+    background-color: black;
+    color: white;
+}
